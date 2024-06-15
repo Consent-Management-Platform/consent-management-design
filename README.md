@@ -1,2 +1,2 @@
 # consent-management-design
-Consent Management Platform design documents and diagrams
+This repository contains and links to design documents and diagrams for the Consent Management Platform.
